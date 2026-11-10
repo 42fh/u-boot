@@ -1061,6 +1061,7 @@ mt8391-genio-720-evk-ufs-edp-dtbs := mt8391-genio-720-evk.dtb \
 				     mt8371-genio-common-edp.dtbo
 
 dtb-$(CONFIG_ARCH_MEDIATEK) += \
+	mt6768-gigaset-rephone.dtb \
 	mt6768-xiaomi-merlin-nt36672a-ktd3137.dtb \
 	mt7622-rfb.dtb \
 	mt7623a-unielec-u7623-02-emmc.dtb \

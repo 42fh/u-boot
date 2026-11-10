@@ -462,6 +462,13 @@ F:	include/power/mt*.h
 N:	mediatek
 N:	mtk
 
+ARM MEDIATEK REPHONE
+M:	42fh <telefax-coeval-2m@icloud.com>
+S:	Odd Fixes
+F:	arch/arm/dts/mt6768-gigaset-rephone.dts
+F:	board/mediatek/mt6768/rephone.env
+F:	configs/rephone_defconfig
+
 ARM METHODE SUPPORT
 M:	Robert Marko <robert.marko@sartura.hr>
 S:	Maintained
